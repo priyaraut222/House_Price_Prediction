@@ -165,7 +165,7 @@ Since the dataset is synthetic, low performance is expected across different reg
 House-Price-Prediction/
 │
 ├── eda.ipynb
-├──traintest.ipynb
+├── traintest.ipynb
 ├── House Price Prediction Dataset.csv
 ├── README.md
 └── requirements.txt
